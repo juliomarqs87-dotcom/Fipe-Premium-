@@ -1,0 +1,14 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "MarQs Fipe",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Fipe",
+  "start_url": "/",
+  "theme_color": "#11183f",
+  "id": "​com.marqs.fipe",
+  "description": "Central de consulta de valores automotivos e financeiros FIPE",
+  "lang": "pt"
+}
